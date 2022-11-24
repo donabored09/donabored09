@@ -32,6 +32,7 @@ I am a Junior Data Engineer from Kazakhstan <img src="https://media.giphy.com/me
   <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" title="Atom" alt="Atom" width="40"
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="markdown" alt="markdown" width="40"
    height="40"/>&nbsp;
+   
 </div>
 
 ---
